@@ -1,0 +1,118 @@
+{
+    "Abdominal Radiology": [
+        {
+            "template_id": "50829",
+            "template_version": "227a26eb-1fc2-11ec-a1f6-0eaa5a9daa9c",
+            "title": "CT Angiography or CT Enterography - GI Bleed",
+            "description": "This CT angiography or CT enterography structured report template was created by members of the Society of Abdominal Radiology GI Bleeding Disease-Focused Panel. Instructions for using this template are included throughout the document. The purpose of this template is to provide a framework for reporting CT angiography or CT enterography in patients with GI bleeding. This template should be modified to comply with individual institutional requirements. ",
+            "author": "rsna_00005112",
+            "co_author": "",
+            "institution": "",
+            "language": "English",
+            "procedure_name": "",
+            "radlex_terms": [
+                {
+                    "id": "RID94",
+                    "prefLabel": "gastrointestinal tract"
+                },
+                {
+                    "id": "RID43369",
+                    "prefLabel": "GI-bleed"
+                },
+                {
+                    "id": "RID10321",
+                    "prefLabel": "computed tomography"
+                },
+                {
+                    "id": "RID10371",
+                    "prefLabel": "angiography"
+                },
+                {
+                    "id": "RID28549",
+                    "prefLabel": "enterography"
+                },
+                {
+                    "id": "RID11583",
+                    "prefLabel": "iodinated contrast agent"
+                }
+            ],
+            "downloads": "4905",
+            "views": "9567",
+            "date_uploaded": "2021-09-27 18:38:40",
+            "report_content": "",
+            "radElement_CDEs": [],
+            "translated_by": "",
+            "references": [
+                "Gastrointestinal Bleeding at CT Angiography and CT Enterography: Imaging Atlas and Glossary of Terms Flavius F. Guglielmo, Michael L. Wells, David H. Bruining, Lisa L. Strate, \u00c1lvaro Huete, Avneesh Gupta, Jorge A. Soto, Brian C. Allen, Mark A. Anderson, Olga R. Brook, Michael S. Gee, David J. Grand, Martin L. Gunn, Ashish Khandelwal, Seong Ho Park, Vijay Ramalingam, Farnoosh Sokhandon, Don C. Yoo,  Jeff L. Fidler, MD RadioGraphics 2021:41(6) https://doi.org/10.1148/rg.2021210043"
+            ],
+            "previous_versions": []
+        },
+        {
+            "template_id": "50860",
+            "template_version": "bd482557-ea51-11eb-a1f6-0eaa5a9daa9c",
+            "title": "CT and MR Liver - LI-RADS",
+            "description": " Standardized LI-RADS report for interpretation of liver CT and MRI.",
+            "author": "rsna_00397752",
+            "co_author": "",
+            "institution": "",
+            "language": "English",
+            "procedure_name": "",
+            "radlex_terms": [],
+            "downloads": "6438",
+            "views": "10614",
+            "date_uploaded": "2021-07-21 18:30:35",
+            "report_content": "",
+            "radElement_CDEs": [],
+            "translated_by": "",
+            "references": [
+                "https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems/LI-RADS/CT-MRI-LI-RADS-v2018",
+                "Use of LI-RADS to Report Liver Observations at CT and MRI Guilherme M. Cunha, Kathryn J. Fowler, Alexandra Roudenko, Bachir Taouli, Alice Fung, Khaled M. Elsayes, Robert M. Marks, Irene Cruite, Natally Horvat, Victoria Chernyak, Claude B. Sirlin, An Tang, RadioGraphics 2021;41(5) https://doi.org/10.1148/rg.2021200205"
+            ],
+            "previous_versions": []
+        },
+        {
+            "template_id": "50857",
+            "template_version": "48af8579-d910-11eb-a1f6-0eaa5a9daa9c",
+            "title": "CT Kidney and Abdomen Renal Mass",
+            "description": "Standardized report template for initial renal mass characterization by renal CT without and with intravenous contrast.",
+            "author": "rsna_00413607",
+            "co_author": "",
+            "institution": "",
+            "language": "English",
+            "procedure_name": "",
+            "radlex_terms": [],
+            "downloads": "6031",
+            "views": "10328",
+            "date_uploaded": "2021-06-29 19:29:12",
+            "report_content": "",
+            "radElement_CDEs": [],
+            "translated_by": "",
+            "references": [
+                "Role of Imaging in Renal Cell Carcinoma: A Multidisciplinary Perspective Asser M. Abou Elkassem, Simon S. Lo, Andrew J. Gunn, Brian M. Shuch, Molly E. Dewitt-Foy, Robert Abouassaly, Sandeep S. Vaidya, Joseph I. Clark, Alexander V. Louie, Shankar Siva, Anca-Ligia Grosu, Andrew D. Smith RadioGraphics 2021:41(5) https://doi.org/10.1148/rg.2021200202"
+            ],
+            "previous_versions": []
+        },
+        {
+            "template_id": "50856",
+            "template_version": "1f317ad5-d910-11eb-a1f6-0eaa5a9daa9c",
+            "title": "MR Kidney and Abdomen Renal Mass",
+            "description": "Standardized report template for initial renal mass characterization by renal MR without and with intravenous contrast.",
+            "author": "rsna_00413607",
+            "co_author": "",
+            "institution": "",
+            "language": "English",
+            "procedure_name": "",
+            "radlex_terms": [],
+            "downloads": "3889",
+            "views": "4098",
+            "date_uploaded": "2021-06-29 19:28:03",
+            "report_content": "",
+            "radElement_CDEs": [],
+            "translated_by": "",
+            "references": [
+                "Role of Imaging in Renal Cell Carcinoma: A Multidisciplinary Perspective Asser M. Abou Elkassem, Simon S. Lo, Andrew J. Gunn, Brian M. Shuch, Molly E. Dewitt-Foy, Robert Abouassaly, Sandeep S. Vaidya, Joseph I. Clark, Alexander V. Louie, Shankar Siva, Anca-Ligia Grosu, Andrew D. Smith RadioGraphics 2021:41(5) https://doi.org/10.1148/rg.2021200202"
+            ],
+            "previous_versions": []
+        }
+    ]
+}
